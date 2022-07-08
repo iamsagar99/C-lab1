@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{84F3302E-3005-4D85-94D3-2E8C98634724}|Default">
+  <MonoDevelop.Ide.ItemProperties.Switch__ArithmaticOperation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Switch_ArithmaticOperation/Program.cs">
+    <Files>
+      <File FileName="Switch_ArithmaticOperation/Program.cs" Line="42" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Switch_ArithmaticOperation" expanded="True">
+            <Node name="Switch_ArithmaticOperation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

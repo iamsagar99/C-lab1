@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/bin/Debug/net5.0/Evaluation1.deps.json
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/bin/Debug/net5.0/Evaluation1.runtimeconfig.json
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/bin/Debug/net5.0/Evaluation1.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/bin/Debug/net5.0/Evaluation1.dll
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/bin/Debug/net5.0/ref/Evaluation1.dll
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/bin/Debug/net5.0/Evaluation1.pdb
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.dll
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/ref/Evaluation1.dll
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.pdb
+/Users/sagarpoudel/Projects/Evaluation1/Evaluation1/obj/Debug/net5.0/Evaluation1.genruntimeconfig.cache

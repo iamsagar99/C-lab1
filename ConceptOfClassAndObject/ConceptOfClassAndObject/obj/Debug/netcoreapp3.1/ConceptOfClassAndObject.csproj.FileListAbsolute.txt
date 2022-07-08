@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/bin/Debug/netcoreapp3.1/ConceptOfClassAndObject.deps.json
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/bin/Debug/netcoreapp3.1/ConceptOfClassAndObject.runtimeconfig.json
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/bin/Debug/netcoreapp3.1/ConceptOfClassAndObject.runtimeconfig.dev.json
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/bin/Debug/netcoreapp3.1/ConceptOfClassAndObject.dll
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/bin/Debug/netcoreapp3.1/ConceptOfClassAndObject.pdb
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.AssemblyInfo.cs
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.dll
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.pdb
+/Users/sagarpoudel/Documents/Projects/ConceptOfClassAndObject/ConceptOfClassAndObject/obj/Debug/netcoreapp3.1/ConceptOfClassAndObject.genruntimeconfig.cache

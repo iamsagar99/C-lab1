@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleValidator", "TriangleValidator\TriangleValidator.csproj", "{FEA2D736-54D8-41BE-8788-652926DF9860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA2D736-54D8-41BE-8788-652926DF9860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA2D736-54D8-41BE-8788-652926DF9860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA2D736-54D8-41BE-8788-652926DF9860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA2D736-54D8-41BE-8788-652926DF9860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B84C8169-3420-466E-BA31-14BBB561476E}
+	EndGlobalSection
+EndGlobal

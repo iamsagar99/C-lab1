@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{74A06535-199D-4D26-902C-D868422BAD44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindMax/Program.cs">
+    <Files>
+      <File FileName="FindMax/Program.cs" Line="30" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FindMax" expanded="True">
+            <Node name="FindMax" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FindMax PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

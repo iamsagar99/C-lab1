@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/bin/Debug/net5.0/Switch_ArithmaticOperation.deps.json
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/bin/Debug/net5.0/Switch_ArithmaticOperation.runtimeconfig.json
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/bin/Debug/net5.0/Switch_ArithmaticOperation.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/bin/Debug/net5.0/Switch_ArithmaticOperation.dll
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/bin/Debug/net5.0/ref/Switch_ArithmaticOperation.dll
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/bin/Debug/net5.0/Switch_ArithmaticOperation.pdb
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.dll
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/ref/Switch_ArithmaticOperation.dll
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.pdb
+/Users/sagarpoudel/Projects/Switch_ArithmaticOperation/Switch_ArithmaticOperation/obj/Debug/net5.0/Switch_ArithmaticOperation.genruntimeconfig.cache

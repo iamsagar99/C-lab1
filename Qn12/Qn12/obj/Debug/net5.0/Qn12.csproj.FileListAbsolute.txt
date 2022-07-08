@@ -1,0 +1,5 @@
+/Users/sagarpoudel/Projects/Qn12/Qn12/obj/Debug/net5.0/Qn12.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/Qn12/Qn12/obj/Debug/net5.0/Qn12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/Qn12/Qn12/obj/Debug/net5.0/Qn12.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/Qn12/Qn12/obj/Debug/net5.0/Qn12.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/Qn12/Qn12/obj/Debug/net5.0/Qn12.csproj.CoreCompileInputs.cache

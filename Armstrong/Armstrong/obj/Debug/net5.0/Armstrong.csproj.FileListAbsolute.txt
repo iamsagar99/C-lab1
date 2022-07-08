@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/bin/Debug/net5.0/Armstrong.deps.json
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/bin/Debug/net5.0/Armstrong.runtimeconfig.json
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/bin/Debug/net5.0/Armstrong.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/bin/Debug/net5.0/Armstrong.dll
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/bin/Debug/net5.0/ref/Armstrong.dll
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/bin/Debug/net5.0/Armstrong.pdb
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.dll
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/ref/Armstrong.dll
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.pdb
+/Users/sagarpoudel/Projects/Armstrong/Armstrong/obj/Debug/net5.0/Armstrong.genruntimeconfig.cache

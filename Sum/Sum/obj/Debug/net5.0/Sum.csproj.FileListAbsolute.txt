@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/Sum/Sum/bin/Debug/net5.0/Sum.deps.json
+/Users/sagarpoudel/Projects/Sum/Sum/bin/Debug/net5.0/Sum.runtimeconfig.json
+/Users/sagarpoudel/Projects/Sum/Sum/bin/Debug/net5.0/Sum.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/Sum/Sum/bin/Debug/net5.0/Sum.dll
+/Users/sagarpoudel/Projects/Sum/Sum/bin/Debug/net5.0/ref/Sum.dll
+/Users/sagarpoudel/Projects/Sum/Sum/bin/Debug/net5.0/Sum.pdb
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.dll
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/ref/Sum.dll
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.pdb
+/Users/sagarpoudel/Projects/Sum/Sum/obj/Debug/net5.0/Sum.genruntimeconfig.cache

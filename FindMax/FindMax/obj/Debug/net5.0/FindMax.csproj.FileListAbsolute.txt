@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/FindMax/FindMax/bin/Debug/net5.0/FindMax.deps.json
+/Users/sagarpoudel/Projects/FindMax/FindMax/bin/Debug/net5.0/FindMax.runtimeconfig.json
+/Users/sagarpoudel/Projects/FindMax/FindMax/bin/Debug/net5.0/FindMax.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/FindMax/FindMax/bin/Debug/net5.0/FindMax.dll
+/Users/sagarpoudel/Projects/FindMax/FindMax/bin/Debug/net5.0/ref/FindMax.dll
+/Users/sagarpoudel/Projects/FindMax/FindMax/bin/Debug/net5.0/FindMax.pdb
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.dll
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/ref/FindMax.dll
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.pdb
+/Users/sagarpoudel/Projects/FindMax/FindMax/obj/Debug/net5.0/FindMax.genruntimeconfig.cache

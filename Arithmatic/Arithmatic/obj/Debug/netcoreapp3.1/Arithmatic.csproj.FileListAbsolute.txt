@@ -1,0 +1,13 @@
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/bin/Debug/netcoreapp3.1/Arithmatic.deps.json
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/bin/Debug/netcoreapp3.1/Arithmatic.runtimeconfig.json
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/bin/Debug/netcoreapp3.1/Arithmatic.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/bin/Debug/netcoreapp3.1/Arithmatic.dll
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/bin/Debug/netcoreapp3.1/Arithmatic.pdb
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.dll
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.pdb
+/Users/sagarpoudel/Projects/Arithmatic/Arithmatic/obj/Debug/netcoreapp3.1/Arithmatic.genruntimeconfig.cache

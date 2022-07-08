@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/bin/Debug/net5.0/primegenerate.deps.json
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/bin/Debug/net5.0/primegenerate.runtimeconfig.json
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/bin/Debug/net5.0/primegenerate.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/bin/Debug/net5.0/primegenerate.dll
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/bin/Debug/net5.0/ref/primegenerate.dll
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/bin/Debug/net5.0/primegenerate.pdb
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.dll
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/ref/primegenerate.dll
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.pdb
+/Users/sagarpoudel/Projects/primegenerate/primegenerate/obj/Debug/net5.0/primegenerate.genruntimeconfig.cache

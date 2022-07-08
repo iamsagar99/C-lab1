@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FEA2D736-54D8-41BE-8788-652926DF9860}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriangleValidator/Program.cs">
+    <Files>
+      <File FileName="TriangleValidator/Program.cs" Line="27" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TriangleValidator" expanded="True">
+            <Node name="TriangleValidator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TriangleValidator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/PrintName/PrintName/bin/Debug/net5.0/PrintName.deps.json
+/Users/sagarpoudel/Projects/PrintName/PrintName/bin/Debug/net5.0/PrintName.runtimeconfig.json
+/Users/sagarpoudel/Projects/PrintName/PrintName/bin/Debug/net5.0/PrintName.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/PrintName/PrintName/bin/Debug/net5.0/PrintName.dll
+/Users/sagarpoudel/Projects/PrintName/PrintName/bin/Debug/net5.0/ref/PrintName.dll
+/Users/sagarpoudel/Projects/PrintName/PrintName/bin/Debug/net5.0/PrintName.pdb
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.dll
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/ref/PrintName.dll
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.pdb
+/Users/sagarpoudel/Projects/PrintName/PrintName/obj/Debug/net5.0/PrintName.genruntimeconfig.cache

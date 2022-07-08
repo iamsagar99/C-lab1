@@ -1,0 +1,15 @@
+/Users/sagarpoudel/Projects/sale/sale/bin/Debug/net5.0/sale.deps.json
+/Users/sagarpoudel/Projects/sale/sale/bin/Debug/net5.0/sale.runtimeconfig.json
+/Users/sagarpoudel/Projects/sale/sale/bin/Debug/net5.0/sale.runtimeconfig.dev.json
+/Users/sagarpoudel/Projects/sale/sale/bin/Debug/net5.0/sale.dll
+/Users/sagarpoudel/Projects/sale/sale/bin/Debug/net5.0/ref/sale.dll
+/Users/sagarpoudel/Projects/sale/sale/bin/Debug/net5.0/sale.pdb
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.csproj.AssemblyReference.cache
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.AssemblyInfoInputs.cache
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.AssemblyInfo.cs
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.csproj.CoreCompileInputs.cache
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.dll
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/ref/sale.dll
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.pdb
+/Users/sagarpoudel/Projects/sale/sale/obj/Debug/net5.0/sale.genruntimeconfig.cache
